@@ -43,6 +43,9 @@ Blockchain networks process millions of transactions daily, making it difficult 
 ## Business Insight
 
 Monitoring whale activity and transaction volume helps investors and blockchain analysts optimize transaction timing and understand network behavior.
+## Visualization
+
+![Fintech](screenshots/fintech.png)
 
 ---
 
@@ -78,7 +81,9 @@ Cost aggregation, ranking functions, statistical comparison, and geographic anal
 ## Business Insight
 
 Healthcare organizations can improve transparency and reduce pricing inconsistencies through data-driven monitoring.
+## Visualization
 
+![Healthcare](screenshots/healthcare.png)
 ---
 
 # 🚢 Project 3: Supply Chain & Maritime Logistics
@@ -113,7 +118,9 @@ Aggregation, ranking, classification, and logistics analysis.
 ## Business Insight
 
 Alternative logistics routes can improve supply chain resilience and reduce transportation risk.
+## Visualization
 
+![Supply Chain](screenshots/supplychain.png)
 ---
 
 # 💻 Tools Used
